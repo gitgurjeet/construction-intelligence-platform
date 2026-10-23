@@ -43,6 +43,7 @@ Analyze this site photo. Reply ONLY with JSON in exactly this format:
     "harness": "Yes" | "No" | "Not visible"
   },
   "hazards": [
+  
     {"issue": "<short text>", "severity": "Low" | "Medium" | "High" | "Critical", "remedy": "<short fix>"}
   ]
 }
